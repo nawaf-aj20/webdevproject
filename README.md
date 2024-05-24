@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 - Ensure secure and reliable user authentication.
 
 ## Screenshots
-![Homepage](link-to-screenshot-booking-page)
+![Homepage](newForweb/booking.png)
 ![Booking Page](link-to-screenshot-booking-page)
 ![My Bookings Page](link-to-screenshot-my-bookings-page)
 
