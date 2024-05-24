@@ -63,6 +63,6 @@ To set up the project locally, follow these steps:
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ## Team Members
-- **Name 1** - Role (e.g., Frontend Developer)
-- **Name 2** - Role (e.g., Backend Developer)
-- **Name 3** - Role (e.g., Database Administrator)
+- **Abdulrhman Abdulaziz Al-wehaib**
+- **Maher Mohammed Ofqi**
+- **Nawaf Ahmed Al johani**
