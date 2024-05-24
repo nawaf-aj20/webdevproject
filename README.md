@@ -47,8 +47,8 @@ To set up the project locally, follow these steps:
 
 ## Screenshots
 ![Homepage](newForweb/booking.png)
-![Booking Page](link-to-screenshot-booking-page)
-![My Bookings Page](link-to-screenshot-my-bookings-page)
+![Booking Page](newForweb/choosing.png)
+![My Bookings Page](newForweb/selectFlight.png)
 
 ## Future Work
 - Implement additional features like flight cancellation and modification.
