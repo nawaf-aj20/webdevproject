@@ -4,7 +4,7 @@
 This project is a web application designed to facilitate the booking of flights between Riyadh and Jeddah. Users can search for flights, book tickets, and manage their bookings through a user-friendly interface. The main goal is to provide a seamless and efficient flight booking experience.
 
 ## Flow Chart
-![Flow Chart](link-to-your-flow-chart-image)
+![Flow Chart](drawFlowchart.png)
 
 ## Setup
 To set up the project locally, follow these steps:
